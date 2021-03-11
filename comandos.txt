@@ -1,4 +1,4 @@
-# Comandos Git
+ Comandos Git
 
 1. git init
 2. git add .
@@ -8,3 +8,7 @@
 6. git log
 7. git commit --amend
 8. git checkout -b ramas  (Para no trabajar en el master)
+9. git checkout master (para pasar al master o a la rrama poniendo el nombre de dicha rama)
+
+
+git branch
