@@ -10,6 +10,7 @@
 8. git checkout -b ramas  (Para no trabajar en el master)
 9. git checkout master (para pasar al master o a la rrama poniendo el nombre de dicha rama)
 10. git branch -d ### (Nombre de la rama para Borrar)
+11.3 git commit --am "msj"
 
 11. git push
 desplieges a servidores externos
